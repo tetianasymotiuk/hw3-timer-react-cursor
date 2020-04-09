@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hw3-timer-react-cursor/static/css/main.a77bd64c.chunk.css",
+    "main.js": "/hw3-timer-react-cursor/static/js/main.2525523c.chunk.js",
+    "main.js.map": "/hw3-timer-react-cursor/static/js/main.2525523c.chunk.js.map",
+    "runtime-main.js": "/hw3-timer-react-cursor/static/js/runtime-main.caee6ce7.js",
+    "runtime-main.js.map": "/hw3-timer-react-cursor/static/js/runtime-main.caee6ce7.js.map",
+    "static/js/2.41ceb5d7.chunk.js": "/hw3-timer-react-cursor/static/js/2.41ceb5d7.chunk.js",
+    "static/js/2.41ceb5d7.chunk.js.map": "/hw3-timer-react-cursor/static/js/2.41ceb5d7.chunk.js.map",
+    "index.html": "/hw3-timer-react-cursor/index.html",
+    "precache-manifest.7f5c8b004c6b582443d8ebc6cdc4c20c.js": "/hw3-timer-react-cursor/precache-manifest.7f5c8b004c6b582443d8ebc6cdc4c20c.js",
+    "service-worker.js": "/hw3-timer-react-cursor/service-worker.js",
+    "static/css/main.a77bd64c.chunk.css.map": "/hw3-timer-react-cursor/static/css/main.a77bd64c.chunk.css.map",
+    "static/js/2.41ceb5d7.chunk.js.LICENSE.txt": "/hw3-timer-react-cursor/static/js/2.41ceb5d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caee6ce7.js",
+    "static/js/2.41ceb5d7.chunk.js",
+    "static/css/main.a77bd64c.chunk.css",
+    "static/js/main.2525523c.chunk.js"
+  ]
+}
